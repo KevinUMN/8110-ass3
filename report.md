@@ -1,4 +1,4 @@
-# Title
+# Briefing Paper 
 
 > Name/Uid
 
@@ -75,6 +75,3 @@
 
 
 ## Conclusions and recommendations
-
-
-
