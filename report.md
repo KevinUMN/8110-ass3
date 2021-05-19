@@ -59,9 +59,6 @@ Apart from the planning issues and low motivation in the team, there are some ot
 ## Conclusions and recommendations
 
 
-
-
-
 ## Reference
 
 YANG, I., 2015. Positive effects of laissez-faire leadership: conceptual exploration. J. Manag. Dev. 34, 1246–1261. https://doi.org/10.1108/JMD-02-2015-0016
